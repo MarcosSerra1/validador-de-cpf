@@ -25,3 +25,7 @@ else:
 ```
 
 Esse exemplo demonstra como usar a função `validar_cpf` para verificar se um CPF é válido ou não.
+
+# Autores
+
+| [<img src="https://avatars.githubusercontent.com/u/78652932?v=4" width=115><br><sub>Marcos Serra</sub>](https://github.com/marcosserra1)
