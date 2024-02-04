@@ -17,7 +17,7 @@ A função `validar_cpf(cpf)` valida um CPF verificando seus dígitos verificado
 ### Exemplo de Uso
 
 ```python
-cpf = '610.074.213-63'
+cpf = '000.000.000-00'
 if validar_cpf(cpf):
     print(f'O CPF {cpf} é válido!')
 else:
